@@ -284,7 +284,7 @@ run '~/.tmux/plugins/tpm/tpm'
 
 #----- Plugin Setting
 #tmux-continuum
-set -g @continuum-restore 'on' in .tmux.conf
+set -g @continuum-restore 'on'
 
 #tmux-prefix-highlight
 set -g status-right '#{prefix_highlight} | %a %Y-%m-%d %H:%M'
