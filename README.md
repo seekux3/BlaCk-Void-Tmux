@@ -19,9 +19,8 @@ existing `~/.tmux.conf` first)
 
 ```
 $ cd
-$ git clone https://github.com/gpakosz/.tmux.git
-$ ln -s -f .tmux/.tmux.conf
-$ cp .tmux/.tmux.conf.local .
+$ git clone https://github.com/black7375/.tmux.git
+$ bash ~/.tmux/BlaCk-Void-Tmux.sh
 ```
 
 Then proceed to [customize] your `~/.tmux.conf.local` copy.
