@@ -1,3 +1,18 @@
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
+
+- [.tmux](#tmux)
+    - [Installation](#installation)
+    - [Troubleshooting](#troubleshooting)
+    - [Features](#features)
+    - [Bindings](#bindings)
+    - [Configuration](#configuration)
+        - [Enabling the Powerline look](#enabling-the-powerline-look)
+        - [Configuring the status line](#configuring-the-status-line)
+        - [Accessing the macOS clipboard from within tmux sessions](#accessing-the-macos-clipboard-from-within-tmux-sessions)
+        - [Using the configuration under Cygwin within Mintty](#using-the-configuration-under-cygwin-within-mintty)
+
+<!-- markdown-toc end -->
 .tmux
 =====
 
@@ -124,6 +139,21 @@ Mouse mode allows you to set the active window, set the active pane, resize
 panes and automatically switches to copy-mode to select text.
 
 ![Mouse mode](https://cloud.githubusercontent.com/assets/553208/9890797/8dffe542-5c02-11e5-9c06-a25b452e6fcc.gif)
+
+Plugins
+--------
+
+* [Tmux Plugin Manger](https://github.com/tmux-plugins/tpm)
+* [Tmux Sensible](https://github.com/tmux-plugins/tmux-sensible)
+* [Tmux Better Mouse Mode](https://github.com/NHDaly/tmux-better-mouse-mode)
+* [Tmux Continuum](https://github.com/tmux-plugins/tmux-continuum)
+* [Tmux Copycat](https://github.com/tmux-plugins/tmux-copycat)
+* [Tmux Open](https://github.com/tmux-plugins/tmux-open)
+* [Tmux Pain Control](https://github.com/tmux-plugins/tmux-pain-control)
+* [Tmux Prefix Highlight](https://github.com/tmux-plugins/tmux-prefix-highlight)
+* [Tmux Resurrect](https://github.com/tmux-plugins/tmux-resurrect)
+* [Tmux Sessionlist](https://github.com/tmux-plugins/tmux-sessionist)
+* [Tmux Yank](https://github.com/tmux-plugins/tmux-yank)
 
 Bindings
 --------
