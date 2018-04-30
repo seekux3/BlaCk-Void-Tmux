@@ -5,6 +5,7 @@
     - [Installation](#installation)
     - [Troubleshooting](#troubleshooting)
     - [Features](#features)
+    - [Plugins](#plugins)
     - [Bindings](#bindings)
     - [Configuration](#configuration)
         - [Enabling the Powerline look](#enabling-the-powerline-look)
