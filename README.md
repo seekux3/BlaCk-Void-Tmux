@@ -35,7 +35,7 @@ existing `~/.tmux.conf` first)
 
 ```
 $ cd
-$ git clone https://github.com/black7375/.tmux.git
+$ git clone https://github.com/black7375/BlaCk-Void-Tmux.git .tmux
 $ bash ~/.tmux/BlaCk-Void-Tmux.sh
 ```
 
